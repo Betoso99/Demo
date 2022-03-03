@@ -60,4 +60,3 @@ describe('demo', () => {
         }
         return false
     }
-
