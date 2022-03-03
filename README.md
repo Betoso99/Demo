@@ -5,5 +5,6 @@
 ## Install
 
 ```sh
+$ npm install cypress
 $ npm install cypress-real-events
 ```
