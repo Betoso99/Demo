@@ -8,3 +8,10 @@
 $ npm install cypress
 $ npm install cypress-real-events
 ```
+
+## run
+
+```sh
+$ npm run cypress:open
+```
+
